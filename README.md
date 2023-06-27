@@ -1,1 +1,1 @@
-# Pixel-design
+Сайт ученика на HTML, CSS
